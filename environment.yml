@@ -1,0 +1,12 @@
+name: hugo-cal
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - beautifulsoup4
+  - ipykernel
+  - requests
+  - pip
+  - pip:
+    - ics

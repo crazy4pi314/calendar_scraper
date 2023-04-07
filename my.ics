@@ -1,0 +1,116 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Writers Jos Charles\, Sequoia Nagamatsu\, Putsata Reang\, and Lucia Flores-Wiseman present their new works written for Hugo Lit Series. This year's series theme is re/birth\, with this evening's sub-theme of conversion.
+DTEND:20230603T040000Z
+DTSTART:20230603T020000Z
+SUMMARY:Hugo Lit Series | Conversion: Jos Charles\, Sequoia Nagamatsu\, Putsata Reang\, Lucia Flores-Wiseman
+UID:7a0633d3-a0fd-41dc-8f07-582c6fbe2012@7a06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Stage Fright is an open mic event hosted by the Young Writers Cohort that gives young writers the opportunity to share poetry\, fiction\, journals\, songs\, plays\, and more! Open to young writers at any stage of their creative journey.
+DTEND:20230420T023000Z
+DTSTART:20230420T013000Z
+SUMMARY:Stage Fright
+UID:bab84146-b456-4dd2-9782-b1eb658dc3ad@bab8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Write Time for Teens is a free drop-in writing circle where young writers can explore a variety of writing techniques\, flex and perfect their skills\, and celebrate their work in community with their fellow young writers.
+DTEND:20230420T010000Z
+DTSTART:20230420T000000Z
+SUMMARY:Write Time for Teens
+UID:5fbb9d13-664e-4bb7-a85a-a86701c99c3d@5fbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join Hugo House in welcoming back SOAP and The Baker Theatre Workshop as they present 1954—The Kings Go South.
+DTEND:20230422T220000Z
+DTSTART:20230422T200000Z
+SUMMARY:The Baker Theater Workshop Presents: 1954–The Kings Go South
+UID:d092c271-5344-4cda-9e68-bca028bd7836@d092.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Write with Hugo House (in partnership with the Seattle Public Library) is a free drop-in writing circle for all ages and genres of writing. In this session\, we’ll focus on generative writing through poetry prompts.
+DTEND:20230413T023000Z
+DTSTART:20230413T010000Z
+SUMMARY:Write with Hugo House with Jeanine Walker
+UID:38625625-f922-477d-b67a-1e90b04481a8@3862.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join writers from around the world every Thursday evening for a healthy dose of inspiration. With discussions and writing prompts facilitated by rotating teachers\, and the opportunity to connect with other writers.
+DTEND:20230414T013000Z
+DTSTART:20230414T003000Z
+SUMMARY:Community Write-In with Anna Vodicka
+UID:57a8f5a2-e8f8-4ba6-b815-2574365f0fe7@57a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Write with Hugo House (in partnership with the Seattle Public Library) is a free drop-in writing circle for all ages and genres of writing. In this session\, we’ll focus on generative writing through poetry prompts.
+DTEND:20230420T023000Z
+DTSTART:20230420T010000Z
+SUMMARY:Write with Hugo House with Miz Floes
+UID:8824eaa7-79b0-46eb-b70c-7131609ed5ea@8824.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Welcome back Castalia—UW Seattle’s monthly MFA reading series\, featuring graduate students\, faculty\, and alumni.
+DTEND:20230421T040000Z
+DTSTART:20230421T020000Z
+SUMMARY:UW Castalia
+UID:d8232d44-7f17-4250-a4ca-a38176ba68d6@d823.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Extending a warm welcome to our neighbors across the lake\, Hugo House is proud to host an evening of poetry and prose from the Redmond Association of Spokenword (RASP).
+DTEND:20230426T040000Z
+DTSTART:20230426T020000Z
+SUMMARY:Eastside Poets: RASP at Hugo House
+UID:f87fc7ed-7bed-4992-acef-961d696830a8@f87f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Write Time for Teens is a free drop-in writing circle where young writers can explore a variety of writing techniques\, flex and perfect their skills\, and celebrate their work in community with their fellow young writers.
+DTEND:20230408T210000Z
+DTSTART:20230408T200000Z
+SUMMARY:Write Time for Teens
+UID:60911325-958e-40a3-8c78-1c31a41bd596@6091.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join writers from around the world every Thursday evening for a healthy dose of inspiration. With discussions and writing prompts facilitated by rotating teachers\, and the opportunity to connect with other writers.
+DTEND:20230421T013000Z
+DTSTART:20230421T003000Z
+SUMMARY:Community Write-In with Anna Vodicka
+UID:c359b68f-ed96-49ad-b267-5891c92afe46@c359.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Writers Danez Smith\, Rachel Khong\, Marci Calabretta Cancio-Bello\, and Zan Fiskum present their new works written for Hugo Lit Series. This year's series theme is re/birth\, with this evening's sub-theme of second chances.
+DTEND:20230429T040000Z
+DTSTART:20230429T020000Z
+SUMMARY:Hugo Lit Series | Second Chances: Danez Smith\, Rachel Khong\, Marci Calabretta Cancio-Bello\, Zan Fiskum
+UID:0a088777-69f4-4c3b-8f1e-3b750635a425@0a08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Write with Hugo House (in partnership with the Seattle Public Library) is a free drop-in writing circle for all ages and genres. In this group\, writers are provided prompts for sustained silent writing time followed by small group sessions to share.
+DTEND:20230419T023000Z
+DTSTART:20230419T010000Z
+SUMMARY:Write with Hugo House with Alma García
+UID:9ba21790-4a8a-4df4-af80-f3dc770382dc@9ba2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join writers from around the world every Thursday evening for a healthy dose of inspiration. With discussions and writing prompts facilitated by rotating teachers\, and the opportunity to connect with other writers.
+DTEND:20230428T013000Z
+DTSTART:20230428T003000Z
+SUMMARY:Community Write-In with Anna Vodicka
+UID:5f6696fb-b69b-43d8-baf2-343e58193c3b@5f66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Works in Progress is Hugo House's semi-monthly open mic series inclusive of diverse formats and storytelling crafts. Read your work—poetry\, fiction\, essays\, memoirs\, plays\, music\, comedy\, and more—and connect with our literary community!
+DTEND:20230418T043000Z
+DTSTART:20230418T000000Z
+SUMMARY:Works in Progress (In-Person)
+UID:b470977e-a4d3-4fcb-ba27-15f25a191b37@b470.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:In this Word Works craft talk\, Jonathan Escoffery will provide strategies for engaging readers\, and discuss examples from the works of well-loved authors\, as well as his own stories. He will be joined in conversation by Juan Carlos Reyes.
+DTEND:20230415T033000Z
+DTSTART:20230415T020000Z
+SUMMARY:Word Works | Jonathan Escoffery: Earning Your Readers’ Attention
+UID:f9ed16fc-78bc-49c8-9f17-8f4edd25320b@f9ed.org
+END:VEVENT
+END:VCALENDAR
